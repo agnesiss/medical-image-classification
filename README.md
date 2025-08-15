@@ -61,24 +61,24 @@ Implemented MAML for small data learning
 Fine-tune a resnet for small data learning and compare that with MAML
 
 # pip pre-prequisite packages
-import random
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import numpy as np
-import Counter from collections 
-import torch
-import torch.nn as nn
-import torch.nn.functional as F
-import torchvision.transforms as transforms
-import Dataset, DataLoader, Subset from torch.utils.data 
-import Image from PIL 
-import pandas as pd
-import os
-import time
-import torchvision.models as models
-import roc_auc_score,f1_score,precision_score,recall_score from sklearn.metrics 
-import copy
-import functional_call from torch.nn.utils.stateless 
-import defaultdict from collections 
+import random</b>
+import pandas as pd</b>
+import seaborn as sns</b>
+import matplotlib.pyplot as plt</b>
+import numpy as np</b>
+import Counter from collections </b>
+import torch</b>
+import torch.nn as nn</b>
+import torch.nn.functional as F</b>
+import torchvision.transforms as transforms</b>
+import Dataset, DataLoader, Subset from torch.utils.data </b>
+import Image from PIL </b>
+import pandas as pd</b>
+import os</b>
+import time</b>
+import torchvision.models as models</b>
+import roc_auc_score,f1_score,precision_score,recall_score from sklearn.metrics </b>
+import copy</b>
+import functional_call from torch.nn.utils.stateless </b>
+import defaultdict from collections </b>
 
