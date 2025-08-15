@@ -61,24 +61,24 @@ Implemented MAML for small data learning
 Fine-tune a resnet for small data learning and compare that with MAML
 
 # pip pre-prequisite packages
-import random</b>
-import pandas as pd</b>
-import seaborn as sns</b>
-import matplotlib.pyplot as plt</b>
-import numpy as np</b>
-import Counter from collections </b>
-import torch</b>
-import torch.nn as nn</b>
-import torch.nn.functional as F</b>
-import torchvision.transforms as transforms</b>
-import Dataset, DataLoader, Subset from torch.utils.data </b>
-import Image from PIL </b>
-import pandas as pd</b>
-import os</b>
-import time</b>
-import torchvision.models as models</b>
-import roc_auc_score,f1_score,precision_score,recall_score from sklearn.metrics </b>
-import copy</b>
-import functional_call from torch.nn.utils.stateless </b>
-import defaultdict from collections </b>
+import random<br>
+import pandas as pd<br>
+import seaborn as sns<br>
+import matplotlib.pyplot as plt<br>
+import numpy as np<br>
+import Counter from collections<br>
+import torch<br>
+import torch.nn as nn<br>
+import torch.nn.functional as F<br>
+import torchvision.transforms as transforms<br>
+import Dataset, DataLoader, Subset from torch.utils.data<br>
+import Image from PIL<br>
+import pandas as pd<br>
+import os<br>
+import time<br>
+import torchvision.models as models<br>
+import roc_auc_score,f1_score,precision_score,recall_score from sklearn.metrics<br>
+import copy<br>
+import functional_call from torch.nn.utils.stateless<br>
+import defaultdict from collections<br>
 
